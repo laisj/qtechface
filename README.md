@@ -1,2 +1,2 @@
 # qtchface
-set up environment by setup.py
+set up environment by install packages in config.ini
